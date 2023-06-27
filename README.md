@@ -6,10 +6,10 @@ Sou fissurado em aprender coisas novas
 
 ##
 
-<div>
+<!--<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefporto&count_private=true&show_icons=true&theme=tokyonight">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefporto&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact">
-</div>
+</div>!-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alef-Vue"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>

@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">🌐 Conecte-se comigo:</h2>
+<h2 align="left">🌐 Connect with me::</h2>
 
 ###
 

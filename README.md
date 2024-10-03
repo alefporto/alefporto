@@ -7,13 +7,13 @@
 
 > I find myself in constant pursuit of knowledge, knowing that no matter how much I grasp, there will always be endless layers left unexplored.
 
-## 🌐 Connect with me  
+## 🌐 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falejoaoalef@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefporto)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lefzera)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588996025052)
 
-## 🛠 Technologies and tools I use:
+## 🛠 Technologies I use:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /><img width="12" />
